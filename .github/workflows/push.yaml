@@ -21,6 +21,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: $ziach.doha@gmail.com/TD:mytagchmod 
-
+          tags: ziach.doha@gmail.com/TD:mytag
           
